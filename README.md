@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋, I'm SAITEJA MEDIPALLY<br><br>A Passionate Full Stack Developer<br><br>💻 I'm looking for Full Stack, Frontend and Backend Roles<br><br>📫 To reach me : saiteja1045@gmail.com<br><br>⚡ I believe in learning by building and being consistent in what I do.</h3>
+<h3 align="center">Hi 👋, I'm SAITEJA MEDIPALLY<br><br>A Passionate Full Stack Developer<br><br>💻 I'm looking for Software/Full Stack Roles<br><br>📫 To reach me : saiteja1045@gmail.com<br><br>⚡ I believe in learning by building and being consistent in what I do.</h3>
 
 ###
 
